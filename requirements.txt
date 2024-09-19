@@ -1,0 +1,4 @@
+opencv-python==4.8.0.76
+ultralytics==8.0.105
+numpy==1.26.0
+sort==0.2.1  # Optional: For object tracking if implemented
